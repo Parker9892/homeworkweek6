@@ -1,0 +1,25 @@
+h1{
+    margin-left: 10px
+}
+
+.animalButton{
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 5px;
+
+    
+    
+}
+
+#newButtonForm{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#gifReturns{
+    margin-left: 10px;
+    margin-top: 15px;
+   border: 1px solid white;
+   width: 25rem
+}
+
